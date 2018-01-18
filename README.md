@@ -1,2 +1,8 @@
 # hello-world
-tutorial test
+
+Hi!
+
+This is my first lesson on Git.
+It is always good learn something new.
+
+Hugs.
